@@ -1,5 +1,7 @@
 console.log("Hello world!");
 
+document.write(`<h2>Larger or Smaller?</h2>`);
+
 let integer;
 let integer2;
 
