@@ -1,4 +1,4 @@
-document.write(`<h2>The World Translator</h2>`);
+document.write(`<h2>The Word Translator</h2>`);
 let lang = prompt("Choose a language code from the following options...", "es, de, en, fr");
 
 
